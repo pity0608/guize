@@ -32,3 +32,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 泡泡云
 DOMAIN-KEYWORD,paopaoyun
+
+# leonardo
+DOMAIN-SUFFIX,leonardo.ai
