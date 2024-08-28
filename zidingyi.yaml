@@ -8,13 +8,13 @@
 payload:
   
   # pp
-  -DOMAIN-KEYWORD,pc528
-  -DOMAIN-SUFFIX,pc528.net
-  -DOMAIN-SUFFIX,hfzjgs.com.cn
-  -DOMAIN-SUFFIX,hfrjgs.com
-  -DOMAIN-KEYWORD,hitachicm.com.cn
-  -DOMAIN-KEYWORD,elle-c-m
-  -DOMAIN-SUFFIX,globaleservice.com
-  -DOMAIN-SUFFIX,tencent.com
-  -DOMAIN-SUFFIX,apple.com
-  -DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-KEYWORD,pc528
+  - DOMAIN-SUFFIX,pc528.net
+  - DOMAIN-SUFFIX,hfzjgs.com.cn
+  - DOMAIN-SUFFIX,hfrjgs.com
+  - DOMAIN-KEYWORD,hitachicm.com.cn
+  - DOMAIN-KEYWORD,elle-c-m
+  - DOMAIN-SUFFIX,globaleservice.com
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
