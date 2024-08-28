@@ -1,4 +1,10 @@
-# 内容：OpenAi Bard anthropic
+# NAME: AI
+# AUTHOR: maxmole
+# REPO: 
+# UPDATED: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# TOTAL: 
 payload:
 # 域名关键字匹配
   - DOMAIN-KEYWORD,openai
