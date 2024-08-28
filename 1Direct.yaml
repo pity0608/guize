@@ -29,18 +29,6 @@ payload:
   - IP-CIDR,114.114.114.114/32,no-resolve
   - IP-CIDR,114.114.115.115/32,no-resolve
 
-# pp
-  - DOMAIN-KEYWORD,pc528
-  - DOMAIN-SUFFIX,pc528.net
-  - DOMAIN-SUFFIX,hfzjgs.com.cn
-  - DOMAIN-SUFFIX,hfrjgs.com
-  - DOMAIN-KEYWORD,hitachicm.com.cn
-  - DOMAIN-KEYWORD,elle-c-m
-  - DOMAIN-SUFFIX,globaleservice.com
-  - DOMAIN-SUFFIX,tencent.com
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,icloud.com
-
 # 360
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,360kuai.com
