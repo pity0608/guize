@@ -6,8 +6,6 @@
 # DOMAIN-SUFFIX: 7
 # TOTAL: 10
 payload:
-  
-  # pp
   - DOMAIN-KEYWORD,pc528
   - DOMAIN-SUFFIX,pc528.net
   - DOMAIN-SUFFIX,hfzjgs.com.cn
