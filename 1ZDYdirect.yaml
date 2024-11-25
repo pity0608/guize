@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud.com
+  - IP-CIDR,192.168.10.199,DIRECT #匹配数据目标IP(直连)
